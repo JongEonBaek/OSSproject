@@ -54,3 +54,6 @@
 
 친구에게 재미있고 특별한 경험을 제공하며, 게임을 통해 선물을 받을 수 있는 감동을 선사하는 것입니다!
 
+---
+Images provided by Freepik (https://www.freepik.com) under their free license.
+
