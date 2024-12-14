@@ -62,7 +62,7 @@
 친구에게 재미있고 특별한 경험을 제공하며, 게임을 통해 선물을 받을 수 있는 감동을 선사하는 것입니다!
 
 ---
-
+## Play Image
 ![image](https://github.com/user-attachments/assets/b2946c04-6819-479c-9805-490b63afba05)
 ![image](https://github.com/user-attachments/assets/d384a559-ad88-456e-84be-575b4ec286f3)
 ![image](https://github.com/user-attachments/assets/5ce6cb6e-b47d-4ab2-a70e-75b0bb50ba48)
@@ -72,5 +72,6 @@
 ![image](https://github.com/user-attachments/assets/5613fbbb-889a-4e46-bd8c-6db059499574)
 ![image](https://github.com/user-attachments/assets/78b45fee-9f50-4568-9d90-4070f09b7d49)
 
+---
 Images provided by Freepik (https://www.freepik.com) under their free license.
 
