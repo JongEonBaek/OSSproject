@@ -63,7 +63,6 @@
 
 ---
 ## Play Image
-![image](https://github.com/user-attachments/assets/b2946c04-6819-479c-9805-490b63afba05)
 ![image](https://github.com/user-attachments/assets/d384a559-ad88-456e-84be-575b4ec286f3)
 ![image](https://github.com/user-attachments/assets/5ce6cb6e-b47d-4ab2-a70e-75b0bb50ba48)
 ![image](https://github.com/user-attachments/assets/1c69ad6b-909d-4036-9bf1-ccc9a4a180d1)
